@@ -1,6 +1,0 @@
-if SHIELD_4KEYPADENC
-
-config ZMK_KEYBOARD_NAME
-    default "4keypadenc"
-
-endif

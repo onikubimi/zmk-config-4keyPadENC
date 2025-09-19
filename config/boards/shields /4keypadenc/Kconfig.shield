@@ -1,2 +1,0 @@
-config SHIELD_4KEYPADENC
-    def_bool $(shields_list_contains,4keypadenc)
