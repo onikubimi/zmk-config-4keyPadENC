@@ -1,7 +1,7 @@
 ---
 file_format: "1"
 id: 4keypadenc
-name: 4KeyPadENC
+name: 4Keypadenc
 type: shield
 url: https://github.com/onikubimi/zmk-config-4keyPadENC
 requires: [nice_nano_v2]
